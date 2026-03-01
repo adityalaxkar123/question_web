@@ -36,7 +36,7 @@ export default function HomePage() {
                 <h1 className="text-2xl font-extrabold text-white text-center leading-tight anim-fadeInUp">
                     राजस्थान PTI
                     <br />
-                    <span className="text-white/80 text-lg font-semibold">Mock Test 2026</span>
+                    <span className="text-white/80 text-lg font-semibold">Mock Test Paper 2 • 2026</span>
                 </h1>
                 <p className="mt-2 text-white/60 text-sm text-center anim-fadeInUp" style={{ animationDelay: '0.1s' }}>
                     Physical Training Instructor — परीक्षा अभ्यास
